@@ -2,7 +2,6 @@
     "name": "ohom/helloworld",
     "description": "this is an example",
     "license": "MIT",
-    "type": "project",
     "authors": [
         {
             "name": "ohom",
