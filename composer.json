@@ -1,0 +1,18 @@
+{
+    "name": "ohom/helloworld",
+    "description": "this is an example",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ohom",
+            "email": "tz422087@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ohom\\HelloWorld\\": "src/"
+        }
+    }
+}
